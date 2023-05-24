@@ -7,6 +7,7 @@ ORG:Heartand Tank Services;
 TITLE:API 653 Inspector
 EMAIL;type=INTERNET;type=WORK;type=pref:rbuntt@heartlandtankservices.com
 TEL;type=WORK;type=VOICE:800 774 3230 *111
+TEL;CELL;VOICE:(580) 491-9010
 item1.ADR;type=WORK;type=pref:;;5200 S Hattie Ave;;;73129;Oklahoma City, OK
 item1.X-ABADR:sg
 item2.URL;type=pref:heartlandtankservices.com
